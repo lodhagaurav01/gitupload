@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lodhagaurav01/gitupload/static/css/main.073c9b0a.css",
-    "main.js": "/lodhagaurav01/gitupload/static/js/main.0b468857.js",
-    "static/js/787.f67b03f6.chunk.js": "/lodhagaurav01/gitupload/static/js/787.f67b03f6.chunk.js",
-    "static/media/logo.svg": "/lodhagaurav01/gitupload/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/lodhagaurav01/gitupload/index.html",
-    "main.073c9b0a.css.map": "/lodhagaurav01/gitupload/static/css/main.073c9b0a.css.map",
-    "main.0b468857.js.map": "/lodhagaurav01/gitupload/static/js/main.0b468857.js.map",
-    "787.f67b03f6.chunk.js.map": "/lodhagaurav01/gitupload/static/js/787.f67b03f6.chunk.js.map"
+    "main.css": "/gitupload/static/css/main.073c9b0a.css",
+    "main.js": "/gitupload/static/js/main.115e86be.js",
+    "static/js/787.f67b03f6.chunk.js": "/gitupload/static/js/787.f67b03f6.chunk.js",
+    "static/media/logo.svg": "/gitupload/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitupload/index.html",
+    "main.073c9b0a.css.map": "/gitupload/static/css/main.073c9b0a.css.map",
+    "main.115e86be.js.map": "/gitupload/static/js/main.115e86be.js.map",
+    "787.f67b03f6.chunk.js.map": "/gitupload/static/js/787.f67b03f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0b468857.js"
+    "static/js/main.115e86be.js"
   ]
 }
